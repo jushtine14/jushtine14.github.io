@@ -1,0 +1,37 @@
+<DOCTYPE !>
+<html>
+<head>
+		<title>Personal Portfolio Website</title>
+		<meta name="description" content="Personal Portfolio"/>
+		<meta http-equiv="author" content="Jushtine Balatibat"/>
+			<link rel="stylesheet" type="text/css" href="./Css/Homepage.css">
+			
+<style>
+body
+{	
+  background-color: white;
+  margin: 0px;
+}
+</style>
+	</head>
+<body>
+<div class="topnav">
+	<nav>
+		<a href="index.html">Home</a>
+		<a href="About.html">About</a>
+		<a href="Works.html">Works/Project</a>
+		<a href="Contact.html">Contact Us</a> 
+	</nav>
+</div>
+<img src="./images/jushtine.jpg" alt="jushtine" width="50%" height="100%" style="float:right">
+
+<p class="name"><i><b>Jushtine Balatibat</b></i></p>
+<p class="nametag">“Success means having the courage, the determination, and the will to become the person you believe you were meant to be.” – George Sheehan</p>
+
+<img src="./images/jush.jpg" alt="jush" width="40%" class="jush">
+<div class="lol">
+	All content copyright &copy 2021, YaoiReader.
+</div>
+</body>
+</html>
+</DOCTYPE>
